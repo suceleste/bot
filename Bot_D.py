@@ -70,5 +70,3 @@ async def delete(ctx, amount: int):
     await ctx.channel.purge(limit=amount)
 
 
-client.run("NzQ3MDg3NDUxMDkyMjg3NTIx.X0JxaA.CkfjL1WMODNfJiEcMWCj3hs518M")
-
